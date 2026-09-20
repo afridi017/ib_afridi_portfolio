@@ -1,3 +1,8 @@
+> **Note:** This is the original HTML-only version of the portfolio, built during the
+> Corvit Systems HTML module. The current, production version of the site is the React +
+> TypeScript application at the repository root — see the main [`README.md`](../README.md).
+> This folder is kept as a learning record and is not part of the build.
+
 # HTML Personal Portfolio Project
 
 A complete **Personal Portfolio and Learning Journey Website** developed as part of my **HTML learning journey at Corvit Systems**.
