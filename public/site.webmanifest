@@ -1,0 +1,17 @@
+{
+  "name": "IB Afridi — Cybersecurity Specialist",
+  "short_name": "IB Afridi",
+  "description": "Portfolio of IB Afridi — cybersecurity tooling, offensive research and 3D web development.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
